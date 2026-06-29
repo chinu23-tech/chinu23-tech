@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Chinmaya Kumar Rout
 
-<!--
-**chinu23-tech/chinu23-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Data Science, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Java
+- Python
+- SQL
+- Snowflake
+- Machine Learning
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Deep Learning
+- Generative AI
+- Streamlit
+- Snowpark
+
+## 📌 Featured Projects
+
+- 📚 Library Loan Management System
+- 🏏 IPL Live Analytics Platform
+- 🤖 Machine Learning Projects
+
+## 📫 Connect with me
+
+- LinkedIn: (your LinkedIn)
+- Email: (your email)
