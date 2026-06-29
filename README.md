@@ -28,5 +28,4 @@
 
 ## 📫 Connect with me
 
-- LinkedIn: (your LinkedIn)
-- Email: (your email)
+- Email: routchinmaya005@gmail.com
