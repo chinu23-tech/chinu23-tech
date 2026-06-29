@@ -41,13 +41,14 @@ I am a passionate software engineer and data science enthusiast focused on build
 
 ---
 
+
 ### 🤝 Connect with Me
 
 <div align="center">
   <a href="mailto:routchinmaya005@gmail.com">
     <img src="https://img.shields.io/badge/Email-routchinmaya005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/chinmaya-rout" target="_blank">
+  <a href="https://www.linkedin.com/in/chinmaya-rout" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
